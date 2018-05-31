@@ -5,6 +5,7 @@ pageEncoding="UTF-8"%>
 <html>
 <head>
 <meta charset="utf-8">
+<link rel="stylesheet" href="webjars/bootstrap/3.3.7/css/bootstrap.css" />
 <title>Exemple</title>
 </head>
 <body>
